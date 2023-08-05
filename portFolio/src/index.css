@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* The card appearance */
+.card-content {
+    @apply bg-white p-4 rounded-lg shadow-md;
+  }
+  
